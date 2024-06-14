@@ -5,8 +5,8 @@ This script generates a directory tree for the current project.
 ## Usage
 
 Run the script to print the directory tree to the:
-console
-for current directory
+console, 
+for current directory, 
 output to .txt file
 
 ```bash
